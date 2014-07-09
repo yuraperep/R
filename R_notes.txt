@@ -1,0 +1,14 @@
+Learn basic things
+Simple R commands
+Data Load 
+Data analysis 
+Visualisation 
+
+x <- read.csv("m1", sep=";", header=FALSE, comment.char="\\");
+names(x) <- c("n", "x", "y");
+plot(x[, 2:3], plot.type="single");
+mean.default(x[,2],trim=0);
+ mean.default(x$y,trim=0);
+seq(length=51, from=-5, by=.2);
+arr<- array(1:20, dim=c(4,5));
+

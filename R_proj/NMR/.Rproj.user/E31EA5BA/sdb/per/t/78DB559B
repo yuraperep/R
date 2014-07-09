@@ -1,0 +1,16 @@
+{
+    "contents" : "Learn basic things\nSimple R commands\nData Load \nData analysis \nVisualisation \n\nx <- read.csv(\"m1\", sep=\";\", header=FALSE, comment.char=\"\\\\\");\nnames(x) <- c(\"n\", \"x\", \"y\");\nplot(x[, 2:3], plot.type=\"single\");\nmean.default(x[,2],trim=0);\n mean.default(x$y,trim=0);\nseq(length=51, from=-5, by=.2);\narr<- array(1:20, dim=c(4,5));\n\n",
+    "created" : 1404659556594.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1721039088",
+    "id" : "78DB559B",
+    "lastKnownWriteTime" : 1404942309,
+    "path" : "~/Docs/Math/R_notes.txt",
+    "project_path" : null,
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "text"
+}

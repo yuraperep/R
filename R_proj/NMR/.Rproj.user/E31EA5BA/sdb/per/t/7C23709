@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1404769378754.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7C23709",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "econ",
+        "contentUrl" : "content?title=econ&file=d8ce70ece2464960973ef96a420263f5.htm",
+        "displayedObservations" : 12,
+        "displayedVariables" : 7,
+        "totalObservations" : 12,
+        "variables" : 7
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

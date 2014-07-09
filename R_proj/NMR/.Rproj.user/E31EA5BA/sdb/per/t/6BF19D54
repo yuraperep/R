@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1404766544188.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6BF19D54",
+    "lastKnownWriteTime" : 80,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "fires",
+        "contentUrl" : "content?title=fires&file=e3000f533b8e46f9bea5a4246991184f.htm",
+        "displayedObservations" : 517,
+        "displayedVariables" : 13,
+        "totalObservations" : 517,
+        "variables" : 13
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
