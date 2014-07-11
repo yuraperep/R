@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1404812252111.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4C1A4989",
+    "lastKnownWriteTime" : 133143986206,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "stores",
+        "contentUrl" : "content?title=stores&file=ce535cc9d8c44a5e9d9c813d524d5429.htm",
+        "displayedObservations" : "27",
+        "displayedVariables" : 6,
+        "totalObservations" : "27",
+        "variables" : "6"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

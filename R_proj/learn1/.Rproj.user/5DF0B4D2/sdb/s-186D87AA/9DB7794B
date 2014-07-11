@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1404727633815.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9DB7794B",
+    "lastKnownWriteTime" : 7741240723082584096,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "health",
+        "contentUrl" : "content?title=health&file=1cb56f3a539648cf9d6091cc9fbcebaf.htm",
+        "displayedObservations" : 53,
+        "displayedVariables" : 5,
+        "totalObservations" : 53,
+        "variables" : 5
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

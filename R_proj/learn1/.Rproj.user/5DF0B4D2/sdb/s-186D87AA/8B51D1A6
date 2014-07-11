@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1404896724938.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8B51D1A6",
+    "lastKnownWriteTime" : 71326560,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "geiser",
+        "contentUrl" : "content?title=geiser&file=b6874be789aa426087e24d8ecb4bded1.htm",
+        "displayedObservations" : 50,
+        "displayedVariables" : 3,
+        "totalObservations" : 50,
+        "variables" : 3
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

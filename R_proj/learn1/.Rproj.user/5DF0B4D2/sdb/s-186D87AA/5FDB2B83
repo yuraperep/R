@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1404813818284.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5FDB2B83",
+    "lastKnownWriteTime" : 82092512,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "house",
+        "contentUrl" : "content?title=house&file=0cd128fe152a4cb6ae986fa1d132a8cc.htm",
+        "displayedObservations" : "506",
+        "displayedVariables" : 15,
+        "totalObservations" : "506",
+        "variables" : "15"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
